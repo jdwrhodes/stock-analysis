@@ -1,8 +1,7 @@
-# stock-analysis
-Stock Analysis
+# Stock-Analysis
 
-##Overview Of Project
+## Overview Of Project
 
-##Results
+## Results
 
-##Summary
+## Summary
